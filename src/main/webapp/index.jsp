@@ -32,7 +32,7 @@ alert("NOT ODD NUMBER");
 </script>
 
 </head>
-<body>
+<body bgcolor="cyan">
 <h1>Generating Even Odd Program in Tomact using Jenkins</h1>
 <form>
 <center>
